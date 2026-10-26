@@ -69,6 +69,13 @@ Invalid folder names return HTTP 400.
 
 6. Open `http://13.127.8.196:8085/files?folder=A`.
 
+## AWS Resource Tags
+
+| Key | Value |
+|---|---|
+| `owner` | `soujanya.puranma@tigeranalytics.com` |
+| `project` | `aws-training` |
+
 ## Screenshots
 
 ### 1. Connecting to EC2 using SSH
@@ -94,3 +101,8 @@ Invalid folder names return HTTP 400.
 ![App output 2](./screenshots/result%202.png)
 
 ![App output 3](./screenshots/result%203.png)
+
+
+
+
+
