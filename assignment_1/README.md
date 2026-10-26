@@ -69,21 +69,6 @@ Invalid folder names return HTTP 400.
 
 6. Open `http://13.127.8.196:8085/files?folder=A`.
 
-
-## Screenshots
-
-Add actual screenshots of:
-
-1. S3 bucket and folders A, B and C.
-2. Files uploaded to each folder.
-3. Flask application running locally.
-4. Successful API responses for folders A, B and C.
-5. EC2 instance configuration and tags.
-6. Security group configuration.
-7. IAM role attached to EC2.
-8. Application accessible through the EC2 public IP on port 8085.
-9. GitHub pull request and reviewer approval.
-
 ## Screenshots
 
 ### 1. Connecting to EC2 using SSH
